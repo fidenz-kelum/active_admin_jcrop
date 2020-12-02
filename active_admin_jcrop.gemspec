@@ -22,8 +22,8 @@ Gem::Specification.new do |s|
   
   # Dummy
    #  s.add_development_dependency "mysql2"
-  s.add_development_dependency "carrierwave"
-  s.add_development_dependency "rmagick"
+ # s.add_development_dependency "carrierwave"
+ # s.add_development_dependency "rmagick"
   
   # Tests
   #   s.add_development_dependency "rspec-rails", '~> 3.0.1'
